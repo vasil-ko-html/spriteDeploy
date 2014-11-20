@@ -1,0 +1,19 @@
+{
+  "name": "spriteG",
+  "version": "0.0.0",
+  "description": "dynamical sprite deploy",
+  "devDependencies": {
+    "grunt": "^0.4.5",
+    "grunt-spritesmith": "^2.20.0",
+    "grunt-newer": "^0.8.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "sprite",
+    "spritesmith"
+  ],
+  "author": "Vasil Oksamitniy <vasil-ko-html@mail.ru>",
+  "license": "ISC"
+}
